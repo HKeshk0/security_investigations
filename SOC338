@@ -13,3 +13,5 @@ On Mar 13, 2025, at 09:44 AM, an email with the source address "update@windows-u
 dylan@letsdefend[.]io claiming a "free windows 11 update". The email contained a malicious URL that has a downloadable malware(Lumma Stealer) 
 which the user has downloaded and executed on his device. The host machine was contained, and the case was escalated for further investigation and remediation. 
 This case is closed as True Positive.
+
+![Investigation_Results](https://github.com/HKeshk0/security_investigations/blob/main/SOC338.png?raw=true)
